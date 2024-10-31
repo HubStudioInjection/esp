@@ -44,3 +44,4 @@ while getgenv().enabled do
         end
     end
 end
+UpdateHighlights()
