@@ -44,4 +44,6 @@ while getgenv().enabled do
         end
     end
 end
-UpdateHighlights()
+while wait() do
+    UpdateHighlights()
+end
